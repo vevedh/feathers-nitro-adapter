@@ -17,3 +17,4 @@ declare module 'nitropack' {
 
 export * from './runtime/plugins'
 export * from './runtime/setup'
+export * from './runtime/manager'
